@@ -1,0 +1,69 @@
+<h2> Contexto do Desenvolvimento Sustentavel</h2>
+        <br>
+        <p class="texto">No ano de 1983, a Nações Unidas convidou a renomada medica e ex-Primeira ministra da
+            Noruega e
+            mestre em saúde publica a Gro Harlem Brundtland, para conduzir e estabelecer a Comissão Mundial sobre o
+            Meio
+            Ambiente e Desenvolvimento.</p>
+        <p class="texto">
+            O conhecimento e a visão da medica Burtland foi determinante já que a própria tinha um domínio
+            sobre o assunto. <br><br>
+            Mas ela ficou mais conhecida no ano de 1987 em abril, como a Comissão de Burtland, um
+            relatório inovador publicado, “Nosso Futuro Comum” – que finalmente trouxe o Desenvolvimento Sustentável
+            para o público, e trazendo o conceito de forma implícita e inovadora para a época.</p><br>
+
+    </section>
+    <br>
+    <div class="conteudo">
+        <h2> Relatório "Nosso Futuro Comum"</h2>
+        <p class="texto" style="font-weight: bold;">--"O desenvolvimento sustentável é o
+            desenvolvimento que encontra as
+            necessidades atuais sem
+            comprometer a habilidade das futuras gerações de atender suas próprias necessidades." </p>
+        <p class="texto" style="font-weight: bold;">--" O desenvolvimento sustentável requer que as sociedades
+            atendam
+            às necessidades humanas tanto pelo aumento do potencial produtivo como pela garantia de oportunidades
+            iguais
+            para todos."</p>
+        <p class="texto" style="font-weight: bold;">--"No mínimo, o desenvolvimento sustentável não
+            deve pôr em risco os
+            sistemas naturais que sustentam a vida na Terra: a atmosfera, as águas, os solos e os seres vivos." </p>
+        <br><br>
+        <p class="texto" style="font-weight: bold; text-align: right;">--(Relatório BRUNDTLAND, 1987)</p>
+        <h2>Conclusão sobre o Relatório</h2>
+        <p class="texto">O relatório oferece uma definição clara e precisa do conceito desenvolvimento sustentável.
+            O texto tornou-se referencia central para debates sobre várias áreas do meio ambiente e da economia.
+        </p>
+        <p class="texto">Ele enfatiza que o mundo marcado pela pobreza e desigualdade estará mais propenso a lidar
+            com crises ecológicas e também dá ênfase em viver dentro dos limites dos recursos naturais para adotar
+            padrões de consumo mais sustentáveis para preservar a natureza.
+        </p>
+        <p class="texto">Em resumo o relatório Brundtland oferece uma visão abrangente e inspiradora do
+            desenvolvimento sustentável, destacando seus desafios e oportunidades e delineando uma agenda para ação
+            global. Suas ideias continuam a ser relevantes e influentes até os dias de hoje, servindo como um guia
+            para esforços contínuos em direção a um futuro mais sustentável e equitativo para todos.
+        </p>
+        <br>
+        <p class="texto" style="font-weight: bold;">Veja o relatório completo em:<a
+                href="https://edisciplinas.usp.br/pluginfile.php/4245128/mod_resource/content/3/Nosso%20Futuro%20Comum.pdf"
+                target="_blank">Modelo
+                em PDF original, não muito legivel.</a>
+        </p>
+
+    </div>
+ <div style="text-align: center;">
+            <h2 style="font-size: 34px; ;
+            color: rgb(9, 24, 37);
+            text-decoration: underline;"> Video sobre o relatório de Brundtland</h2>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/moFNsSdmjII?si=b1dootTOGWrtET1-"
+                title="YouTube video player" frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <a href="#" style="font-size: 25px;"> Veja mais sobre o assunto na proxima pagina*</a>
+        </div>

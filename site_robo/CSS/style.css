@@ -1,0 +1,30 @@
+body {
+    background-image: url("../Imagenss/obor.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    font-family: 'Itim';
+    color: ivory;
+
+}
+
+main {
+    background-color: rgba(0, 0, 0, 0.6);
+    padding: 5px 40px;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+
+.logo,
+.mancheta,
+.headline,
+.video {
+    margin: 0;
+    text-align: center;
+}
+
+article {
+    text-align: center;
+    font-style: normal;
+    font-size: 20px;
+    color: rgb(230, 200, 225);
+}

@@ -1,0 +1,46 @@
+.container {
+    display: inline-block;
+    width: 100%;
+    height: 400px;
+    position: relative;
+    border: 1px dashed red;
+}
+
+img {
+    width: 100%;
+    height: 400px;
+    background-size: cover;
+    opacity: 0.3;
+    border: 2px solid green;
+}
+
+.pça {
+    background: rgb(140, 235, 86);
+    padding-top: 100px;
+    padding-bottom: 50px;
+    padding-left: 1300px;
+    padding-right: 1300px;
+    position: fixed;
+    top: 10px;
+    text-align: center;
+}
+
+.center {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: black;
+    z-index: 999;
+}
+
+
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+    padding: 10px;
+}
